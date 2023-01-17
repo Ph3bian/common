@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "common test",
   "main": "index.js",
+  "publishConfig": {
+    "@ph3bian:registry": "https://npm.pkg.github.com"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
