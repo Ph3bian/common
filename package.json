@@ -1,0 +1,22 @@
+{
+  "name": "@ph3bian/common",
+  "version": "1.0.0",
+  "description": "common test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ph3bian/common.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "ph3bian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ph3bian/common/issues"
+  },
+  "homepage": "https://github.com/Ph3bian/common#readme"
+}
